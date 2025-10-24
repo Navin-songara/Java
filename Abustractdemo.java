@@ -1,3 +1,4 @@
+// Java
 // ---------------- INTERFACE DEMO ----------------
 // Interface :-
 // 1. Interface is a blueprint of a class
